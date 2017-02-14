@@ -6,7 +6,7 @@
  * @package WordPress
  */
 
-define( 'WP_INSTALLING', true );
+define( 'WP_INSTALLING', true ); //added a dummy comment!
 
 /** Sets up the WordPress Environment. */
 require( dirname(__FILE__) . '/wp-load.php' );
